@@ -1,2 +1,2 @@
 # Minefund
-The gift of computation
+Adding Value Through Computation
