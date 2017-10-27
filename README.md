@@ -1,2 +1,2 @@
 # Minefund
-Adding Value Through Computation
+Empowering Computation
